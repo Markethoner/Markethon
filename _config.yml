@@ -4,7 +4,7 @@ email:              "your-email@example.com"
 description:        "블로그 설명"
 author:             "작성자 이름"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://markethon.space"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
 
