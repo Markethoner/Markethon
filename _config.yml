@@ -2,17 +2,14 @@ title:              "Markethon Project"
 tagline:            "Study Must Go On"
 email:              "deepdiver@kakao.com"
 description:        "블로그 설명"
-author:             "작성자 이름"
+author:             "Markethoner"
 baseurl:            "/"
 url:                "https://markethon.space"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+instagram_username: instagram_markethon_project
 
 # Build settings
 markdown:           kramdown
