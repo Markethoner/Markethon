@@ -9,7 +9,7 @@ locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
 
 # Social Profiles
-instagram_username: instagram_markethon_project
+instagram_username: instagram_markethoner
 
 # Build settings
 markdown:           kramdown
