@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://markethon.space/sitemap.xml
